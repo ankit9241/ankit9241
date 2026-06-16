@@ -5,7 +5,9 @@
 <!-- Header -->
 
 <h1 align="center">
-  Hi 👋, I'm Ankit Kumar
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Ankit!;&center=true&font=Righteous&size=35">
+  </a>
 </h1>
 
 <h3 align="center">
@@ -66,15 +68,11 @@
 
 <h2>🐍 Snake Eating My Contributions 🐍</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ankit9241/ankit9241/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://raw.githubusercontent.com/ankit9241/ankit9241/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake"
-    src="https://raw.githubusercontent.com/ankit9241/ankit9241/output/github-contribution-grid-snake.svg">
-</picture>
-
+ <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ankit9241/ankit9241/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/ankit9241/ankit9241/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/ankit9241/ankit9241/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
 </div>
 
 <hr/>
@@ -141,8 +139,8 @@
   <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ankit9241&repo=ExamifAI&theme=react&hide_border=true" />
 </a>
 
-<a href="https://github.com/ankit9241/stc_website">
-  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ankit9241&repo=stc_website&theme=react&hide_border=true" />
+<a href="https://github.com/ankit9241/TrackFlow">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ankit9241&repo=TrackFlow&theme=react&hide_border=true" />
 </a>
 
 </div>
@@ -156,7 +154,7 @@
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankit9241&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankit9241&theme=github_dark" />
 </p>
 
 <hr/>
